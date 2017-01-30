@@ -1,6 +1,6 @@
 Name     : jdk-kafka_2.118
 Version  : 0.8.2.1
-Release  : 2
+Release  : 3
 URL      : http://repo1.maven.org/maven2/org/apache/kafka/kafka_2.11/0.8.2.1/kafka_2.11-0.8.2.1.jar
 Source0  : http://repo1.maven.org/maven2/org/apache/kafka/kafka_2.11/0.8.2.1/kafka_2.11-0.8.2.1.jar
 Source1  : http://repo1.maven.org/maven2/org/apache/kafka/kafka_2.11/0.8.2.1/kafka_2.11-0.8.2.1.pom
